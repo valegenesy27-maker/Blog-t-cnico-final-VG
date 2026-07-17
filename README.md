@@ -1,1 +1,1 @@
-# Blog-t-cnico-final-VG
+# Blog-técnico-final-VG
